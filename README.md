@@ -3,7 +3,7 @@ WORKOUT
 
 Algorithms, Data Structures and C++
 
-[Link-name2](#Header2)
+[Link-name2](#header2)
 
 # Link 1
 text 1
