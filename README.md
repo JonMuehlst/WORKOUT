@@ -16,11 +16,11 @@ Algorithms, Data Structures and C++
 TODO:
 ------
 
-..* Constructor
-..* Add node
-..* Get item by index
-..* Remove node
-..* Insert Sorted
++ Constructor
++ Add node
++ Get item by index
++ Remove node
++ Insert Sorted
 
 # Algorithms
 
