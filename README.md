@@ -5,15 +5,22 @@ Algorithms, Data Structures and C++
 
 [Data Structures](#data-structures)
   
-  [Linked List](#linked-list)
+[Singly Linked List](#singly-linked-list)
 
 [Algorithms](#algorithms)
 
 
 # Data Structures
 
-## Linked List
+## Singly Linked List
+TODO:
+------
 
+..* Constructor
+..* Add node
+..* Get item by index
+..* Remove node
+..* Insert Sorted
 
 # Algorithms
 
