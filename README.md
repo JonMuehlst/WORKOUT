@@ -13,8 +13,8 @@ Algorithms, Data Structures and C++
 # Data Structures
 
 ## Singly Linked List
+
 TODO:
-------
 
 + Constructor
 + Add node
