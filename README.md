@@ -4,7 +4,7 @@ WORKOUT
 Algorithms, Data Structures and C++
 
 [Data Structures](#data-structures)
-  
+
 [Singly Linked List](#singly-linked-list)
 
 [Algorithms](#algorithms)
@@ -16,6 +16,7 @@ Algorithms, Data Structures and C++
 
 TODO:
 
++ Node class
 + Constructor
 + Add node
 + Get item by index
@@ -23,5 +24,3 @@ TODO:
 + Insert Sorted
 
 # Algorithms
-
-JonMuehlst
